@@ -1,5 +1,0 @@
-<Readers>
-  <CustomReader datakey="SparseTime" datatype="float" index="0" name="SparsificationExecTime" regpattern="^  cut_statistics_co:" method="last"/>
-  <CustomReader datakey="NumSelectedCuts" datatype="int" index="4" name="NumSelectedCuts" regpattern="^  cut_statistics_co:" method="last"/>
-  <CustomReader datakey="CutNonzeros" datatype="int" index="0" name="CutNonzeros" method="last" regpattern="^Nonzeros in selected cuts:"/>
-</Readers>
