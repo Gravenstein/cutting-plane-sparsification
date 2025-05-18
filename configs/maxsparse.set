@@ -1,0 +1,170 @@
+# maximal time in seconds to run
+# [type: real, advanced: FALSE, range: [0,1e+20], default: 1e+20]
+limits/time = 3600
+
+
+# is statistics table <CutByOriginTable> active
+# [type: bool, advanced: FALSE, range: {TRUE,FALSE}, default: TRUE]
+table/CutByOriginTable/active = TRUE
+
+# Should local cuts be sparsified?
+# [type: bool, advanced: FALSE, range: {TRUE,FALSE}, default: FALSE]
+sparsifier/activation/sparsify_local = FALSE
+
+# Only cuts with at least the given density are sparsified.
+# [type: real, advanced: FALSE, range: [0,1], default: 0]
+sparsifier/activation/min_density = 0
+
+# Should the sparsified cut replace the original cut?
+# [type: bool, advanced: TRUE, range: {TRUE,FALSE}, default: TRUE]
+sparsifier/replace_original = TRUE
+
+# Should the sparsifier be called?
+# [type: bool, advanced: FALSE, range: {TRUE,FALSE}, default: TRUE]
+sparsifier/call_sparsifier = TRUE
+
+# Should we collect statistics about the original and the sparsified cuts?
+# [type: bool, advanced: TRUE, range: {TRUE,FALSE}, default: FALSE]
+sparsifier/collect_statistics = TRUE
+
+# (s)election, (c)urrent, (n)one
+sparsifier/efficacythreshold = n
+
+# minimal efficacy for a cut to enter the LP
+# [type: real, advanced: FALSE, range: [0,1e+98], default: 0.0001]
+separating/minefficacy = 0.0001
+
+sparsifier/activation/reduceactivation = TRUE
+
+sparsifier/maxdensity = 1.0
+
+
+# Not needed, will not remove existing solution
+# disable symmetry breaking, since otherwise we cannot evaluate based on a
+# single known optimal solution.
+# misc/usesymmetry = 0
+
+
+# Disable restarts to reduce variability.
+# restart policy: (a)lways, (c)ompletion, (e)stimation, (n)ever
+# [type: char, advanced: FALSE, range: {acen}, default: e]
+estimation/restarts/restartpolicy = n
+
+# maximal number of restarts (-1: unlimited)
+# [type: int, advanced: FALSE, range: [-1,2147483647], default: -1]
+presolving/maxrestarts = 0
+
+# restart limit
+# [type: int, advanced: FALSE, range: [-1,2147483647], default: 1]
+estimation/restarts/restartlimit = 0
+
+
+# maximal number of runs for which separation is enabled (-1: unlimited)
+# [type: int, advanced: TRUE, range: [-1,2147483647], default: -1]
+separating/maxruns = -1
+
+
+# Disable separation in non-root nodes
+# maximal number of separation rounds per node (-1: unlimited)
+# [type: int, advanced: FALSE, range: [-1,2147483647], default: -1]
+separating/maxrounds = 0
+
+
+# Enable root rounds
+# maximal number of separation rounds in the root node (-1: unlimited)
+# [type: int, advanced: FALSE, range: [-1,2147483647], default: -1]
+separating/maxroundsroot = -1
+
+# This would allow more separation rounds, and it might be beneficial to allow it. Not done
+# now, but worth considering. TODO
+# maximal number of consecutive separation rounds without objective or integrality improvement in the root node (-1: no additional restriction)
+# [type: int, advanced: FALSE, range: [-1,2147483647], default: 10]
+# separating/maxstallroundsroot = -1
+
+# maximal number of separated cuts at the root node (0: disable root node separation)
+# [type: int, advanced: FALSE, range: [0,2147483647], default: 2000]
+separating/maxcutsroot = 2000
+
+# enable non-standard separators at root node, currently not done, TODO
+# separating/cgmip/freq = 0
+# separating/cgmip/timelimit = 20 # takes a very long time without this
+# separating/closecuts/freq = 0
+# separating/convexproj/freq = 0
+# separating/eccuts/freq = 0
+# separating/gauge/freq = 0
+# separating/interminor/freq = 0
+# separating/intobj/freq = 0 Causes crashes
+# separating/oddcycle/freq = 0
+
+# explicitly set default values for standard separators, for completeness
+separating/clique/freq = 0
+separating/flowcover/freq = 10
+separating/cmir/freq = 10
+separating/knapsackcover/freq = 10
+separating/aggregation/freq = 10
+separating/disjunctive/freq = 0
+separating/gomory/freq = 10
+separating/strongcg/freq = 10
+separating/gomorymi/freq = 10
+separating/impliedbounds/freq = 10
+separating/mcf/freq = 0
+separating/minor/freq = 10
+separating/mixing/freq = 10
+separating/rapidlearning/freq = 5
+separating/rlt/freq = 0
+separating/zerohalf/freq = 10
+
+# Disable RENS heuristic, which freezes on certain problems
+# frequency for calling primal heuristic <rens> (-1: never, 0: only at depth freqofs)
+# [type: int, advanced: FALSE, range: [-1,65534], default: 0]
+heuristics/rens/freq = -1
+
+# Some MIPLIB solutions are rejected with default tolerance.
+# feasibility tolerance for constraints
+# [type: real, advanced: FALSE, range: [1e-17,0.001], default: 1e-06]
+numerics/feastol = 1e-04
+
+
+# Disable heuristics, since we inject the optimal solution
+heuristics/adaptivediving/freq = -1
+heuristics/clique/freq = -1
+heuristics/completesol/freq = -1
+heuristics/conflictdiving/freq = -1
+heuristics/crossover/freq = -1
+heuristics/distributiondiving/freq = -1
+heuristics/farkasdiving/freq = -1
+heuristics/feaspump/freq = -1
+heuristics/fracdiving/freq = -1
+heuristics/gins/freq = -1
+heuristics/guideddiving/freq = -1
+heuristics/indicator/freq = -1
+heuristics/intshifting/freq = -1
+heuristics/linesearchdiving/freq = -1
+heuristics/locks/freq = -1
+heuristics/lpface/freq = -1
+heuristics/alns/freq = -1
+heuristics/nlpdiving/freq = -1
+heuristics/multistart/freq = -1
+heuristics/mpec/freq = -1
+heuristics/objpscostdiving/freq = -1
+heuristics/ofins/freq = -1
+heuristics/oneopt/freq = -1
+heuristics/padm/freq = -1
+heuristics/pscostdiving/freq = -1
+heuristics/randrounding/freq = -1
+heuristics/rens/freq = -1
+heuristics/reoptsols/freq = -1
+heuristics/rins/freq = -1
+heuristics/rootsoldiving/freq = -1
+heuristics/rounding/freq = -1
+heuristics/shiftandpropagate/freq = -1
+heuristics/shifting/freq = -1
+heuristics/simplerounding/freq = -1
+heuristics/subnlp/freq = -1
+heuristics/trivial/freq = -1
+heuristics/trivialnegation/freq = -1
+heuristics/trysol/freq = -1
+heuristics/undercover/freq = -1
+heuristics/vbounds/freq = -1
+heuristics/veclendiving/freq = -1
+heuristics/zirounding/freq = -1

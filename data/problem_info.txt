@@ -1,0 +1,1082 @@
+LOG FROM create_dataset ON COLLECTION:
+
+10teams passed all conditions
+22433 passed all conditions
+23588 passed all conditions
+2club200v15p5scn passed all conditions
+30_70_45_05_100 passed all conditions
+30_70_45_095_100 passed all conditions
+30_70_45_095_98 passed all conditions
+30n20b8 passed all conditions
+50v-10 passed all conditions
+Rejecting 8div-n59k10: Has tag "infeasible"
+Rejecting 8div-n59k11: Has tag "infeasible"
+Rejecting 8div-n59k12: Has tag "infeasible"
+a1c1s1 passed all conditions
+Rejecting a2864-99blp: Has status "open"
+a2c1s1 passed all conditions
+Rejecting ab51-40-100: Has tag "numerics"
+Rejecting ab67-40-100: Has tag "numerics"
+Rejecting ab69-40-100: Has tag "numerics"
+Rejecting ab71-20-100: Has tag "numerics"
+Rejecting ab72-40-100: Has tag "numerics"
+academictimetablebig passed all conditions
+academictimetablesmall passed all conditions
+acc-tight2 passed all conditions
+acc-tight4 passed all conditions
+acc-tight5 passed all conditions
+adult-max5features passed all conditions
+Rejecting adult-regularized: Has status "open"
+aflow30a passed all conditions
+aflow40b passed all conditions
+air03 passed all conditions
+air04 passed all conditions
+air05 passed all conditions
+aligninq passed all conditions
+allcolor10 passed all conditions
+Rejecting allcolor58: Has status "open"
+Rejecting amaze22012-03-15i: Has tag "feasibility"
+Rejecting amaze22012-06-28i: Has tag "feasibility"
+Rejecting amaze22012-07-04i: Has tag "feasibility"
+app1-1 passed all conditions
+app1-2 passed all conditions
+Rejecting app2-1: Has tag "numerics"
+Rejecting app2-2: Has tag "numerics"
+app3 passed all conditions
+Rejecting arki001: Has tag "numerics"
+Rejecting assign1-10-4: Has status "open"
+assign1-5-8 passed all conditions
+atlanta-ip passed all conditions
+Rejecting atm20-100: No solution file: /scratch/opt/happlegr/Miplib/solutions/atm20-100.sol.gz
+Rejecting australia-abs-cta: Has tag "numerics"
+b-ball passed all conditions
+b1c1s1 passed all conditions
+b2c1s1 passed all conditions
+bab1 passed all conditions
+bab2 passed all conditions
+Rejecting bab3: Has status "open"
+bab5 passed all conditions
+bab6 passed all conditions
+Rejecting bc: Has tag "numerics"
+Rejecting bc1: Has tag "numerics"
+beasleyC1 passed all conditions
+beasleyC2 passed all conditions
+beasleyC3 passed all conditions
+beavma passed all conditions
+berlin passed all conditions
+berlin_5_8_0 passed all conditions
+bg512142 passed all conditions
+Rejecting bharat: Has status "open"
+biella1 passed all conditions
+bienst1 passed all conditions
+bienst2 passed all conditions
+binkar10_1 passed all conditions
+blend2 passed all conditions
+Rejecting bley_xl1: Has tag "numerics"
+Rejecting bley_xs1: Has status "open"
+Rejecting bley_xs1noM: Has status "open"
+Rejecting bley_xs2: Has tag "numerics"
+blp-ar98 passed all conditions
+blp-ic97 passed all conditions
+blp-ic98 passed all conditions
+blp-ir98 passed all conditions
+Rejecting bmocbd: Has tag "numerics"
+Rejecting bmocbd2: Has tag "numerics"
+Rejecting bmocbd3: Has status "open"
+Rejecting bmoipr2: Has tag "numerics"
+bnatt400 passed all conditions
+Rejecting bnatt500: Has tag "infeasible"
+bppc4-08 passed all conditions
+Rejecting bppc6-02: Has status "open"
+Rejecting bppc6-06: Has status "open"
+bppc8-02 passed all conditions
+bppc8-09 passed all conditions
+brasil passed all conditions
+brazil3 passed all conditions
+Rejecting breastcancer-regularized: Has tag "numerics"
+Rejecting bts4-cta: Has status "open"
+buildingenergy passed all conditions
+cap6000 passed all conditions
+cbs-cta passed all conditions
+Rejecting cdc7-4-3-2: Has status "open"
+Rejecting cdma: Has status "open"
+chromaticindex1024-7 passed all conditions
+chromaticindex128-5 passed all conditions
+chromaticindex256-8 passed all conditions
+chromaticindex32-8 passed all conditions
+chromaticindex512-7 passed all conditions
+ci-s4 passed all conditions
+Rejecting circ10-3: Has status "open"
+cmflsp40-24-10-7 passed all conditions
+Rejecting cmflsp40-36-2-10: Has status "open"
+Rejecting cmflsp50-24-10-4: Has tag "numerics"
+cmflsp50-24-8-8 passed all conditions
+Rejecting cmflsp60-36-2-6: Has status "open"
+CMS750_4 passed all conditions
+co-100 passed all conditions
+cod105 passed all conditions
+comp07-2idx passed all conditions
+comp08-2idx passed all conditions
+Rejecting comp12-2idx: Has status "open"
+comp16-3idx passed all conditions
+comp21-2idx passed all conditions
+Rejecting control20-5-10-5: Has tag "numerics"
+Rejecting control30-3-2-3: Has tag "numerics"
+Rejecting control30-5-10-4: Has tag "numerics"
+core2536-691 passed all conditions
+Rejecting core2586-950: Has status "open"
+Rejecting core4284-1064: Has status "open"
+Rejecting core4872-1529: Has status "open"
+cost266-UUE passed all conditions
+Rejecting cryptanalysiskb128n5obj14: Has tag "feasibility"
+Rejecting cryptanalysiskb128n5obj16: Has tag "feasibility"
+csched007 passed all conditions
+csched008 passed all conditions
+csched010 passed all conditions
+Rejecting cvrpa-n64k9vrpi: Has status "open"
+Rejecting cvrpb-n45k5vrpi: Has status "open"
+Rejecting cvrpp-n16k8vrpi: Has status "open"
+Rejecting cvrpsimple2i: Has tag "numerics"
+cvs08r139-94 passed all conditions
+cvs16r106-72 passed all conditions
+cvs16r128-89 passed all conditions
+cvs16r70-62 passed all conditions
+cvs16r89-60 passed all conditions
+Rejecting d20200: Has status "open"
+Rejecting dale-cta: Has tag "numerics"
+dano3_3 passed all conditions
+dano3_5 passed all conditions
+Rejecting dano3mip: Has status "open"
+danoint passed all conditions
+Rejecting datt256: Has status "open"
+dc1c passed all conditions
+Rejecting dc1l: Has status "open"
+dcmulti passed all conditions
+decomp1 passed all conditions
+decomp2 passed all conditions
+Rejecting dell: Has tag "infeasible"
+Rejecting dfn-bwin-DBE: Has status "open"
+dg012142 passed all conditions
+Rejecting diameterc-mstc-v20a190d5i: Has tag "numerics"
+Rejecting diameterc-msts-v40a100d5i: Has tag "numerics"
+disctom passed all conditions
+Rejecting dlr1: Has status "open"
+Rejecting dlr2: Has status "open"
+dolom1 passed all conditions
+drayage-100-12 passed all conditions
+drayage-100-23 passed all conditions
+drayage-25-23 passed all conditions
+drayage-25-27 passed all conditions
+drayage-25-32 passed all conditions
+ds passed all conditions
+Rejecting ds-big: Has status "open"
+Rejecting dsbmip: /scratch/opt/happlegr/Miplib/solutions/dsbmip.sol.gz was rejected by SCIP
+dws008-01 passed all conditions
+dws008-03 passed all conditions
+Rejecting dws012-01: Has status "open"
+Rejecting dws012-02: Has status "open"
+Rejecting dws012-03: Has status "open"
+eil33-2 passed all conditions
+eilA101-2 passed all conditions
+eilC76-2 passed all conditions
+Rejecting ej: Has tag "numerics"
+Rejecting elitserienhandball11i: Has tag "numerics"
+Rejecting elitserienhandball13i: Has tag "numerics"
+Rejecting elitserienhandball14i: Has tag "numerics"
+Rejecting elitserienhandball3i: Has tag "numerics"
+Rejecting enlight11: Has tag "infeasible"
+Rejecting enlight4: Has tag "infeasible"
+enlight8 passed all conditions
+Rejecting enlight9: Has tag "infeasible"
+enlight_hard passed all conditions
+Rejecting eva1aprime5x5opt: Has status "open"
+Rejecting eva1aprime6x6opt: Has status "open"
+ex10 passed all conditions
+Rejecting ex1010-pi: Has status "open"
+ex9 passed all conditions
+exp-1-500-5-5 passed all conditions
+Rejecting f2000: Has status "open"
+f2gap201600 passed all conditions
+f2gap401600 passed all conditions
+f2gap40400 passed all conditions
+f2gap801600 passed all conditions
+fast0507 passed all conditions
+fastxgemm-n2r6s0t2 passed all conditions
+fastxgemm-n2r7s4t1 passed all conditions
+Rejecting fastxgemm-n3r21s3t6: Has status "open"
+Rejecting fastxgemm-n3r22s4t6: Has status "open"
+Rejecting fastxgemm-n3r23s5t6: Has status "open"
+Rejecting fhnw-binpack4-18: Has tag "feasibility"
+Rejecting fhnw-binpack4-4: Has tag "feasibility"
+Rejecting fhnw-binpack4-48: Has tag "feasibility"
+Rejecting fhnw-binpack4-58: Has status "open"
+Rejecting fhnw-binpack4-77: Has status "open"
+Rejecting fhnw-binschedule0: Has status "open"
+Rejecting fhnw-binschedule1: Has status "open"
+Rejecting fhnw-binschedule2: Has status "open"
+Rejecting fhnw-schedule-paira100: Has status "open"
+Rejecting fhnw-schedule-paira200: Has status "open"
+Rejecting fhnw-schedule-paira400: Has status "open"
+Rejecting fhnw-schedule-pairb200: Has status "open"
+Rejecting fhnw-schedule-pairb400: Has status "open"
+Rejecting fhnw-sq2: Has tag "feasibility"
+Rejecting fhnw-sq3: Has tag "feasibility"
+fiball passed all conditions
+fiber passed all conditions
+Rejecting fillomino7x7-0i: Has tag "feasibility"
+Rejecting fjspeasy01i: Has tag "numerics"
+flugpl passed all conditions
+Rejecting flugplinf: Has tag "infeasible"
+g200x740 passed all conditions
+Rejecting g503inf: Has tag "infeasible"
+Rejecting gasprod1-1: Has status "open"
+Rejecting gasprod1-2: Has tag "numerics"
+Rejecting gasprod1-3: Has tag "numerics"
+Rejecting gasprod2-1: Has tag "numerics"
+Rejecting gasprod2-2: Has tag "numerics"
+gen passed all conditions
+gen-ip002 passed all conditions
+gen-ip016 passed all conditions
+gen-ip021 passed all conditions
+gen-ip036 passed all conditions
+gen-ip054 passed all conditions
+Rejecting genus-g31-8: Has status "open"
+Rejecting genus-g61-25: Has status "open"
+Rejecting genus-sym-g31-8: Has status "open"
+Rejecting genus-sym-g62-2: Has status "open"
+Rejecting genus-sym-grafo5708-48: Has status "open"
+Rejecting ger50-17-ptp-pop-3t: Has status "open"
+ger50-17-ptp-pop-6t passed all conditions
+Rejecting ger50-17-trans-dfn-3t: Has status "open"
+Rejecting ger50-17-trans-pop-3t: Has status "open"
+Rejecting ger50_17_trans: Has tag "numerics"
+germanrr passed all conditions
+germany50-UUM passed all conditions
+Rejecting gfd-schedulen180f7d50m30k18: Has tag "feasibility"
+Rejecting gfd-schedulen180f7d50m30k18-16i: Has tag "numerics"
+Rejecting gfd-schedulen25f5d20m10k3i: Has tag "numerics"
+Rejecting gfd-schedulen55f2d50m30k3i: Has tag "numerics"
+Rejecting ghoulomb4-9-10i: Has tag "numerics"
+glass-sc passed all conditions
+glass4 passed all conditions
+gmu-35-40 passed all conditions
+gmu-35-50 passed all conditions
+gmut-75-50 passed all conditions
+Rejecting gmut-76-40: Has status "open"
+Rejecting gmut-76-50: Has status "open"
+gr4x6 passed all conditions
+graph20-20-1rand passed all conditions
+graph20-80-1rand passed all conditions
+Rejecting graph40-20-1rand: Has status "open"
+Rejecting graph40-40-1rand: Has status "open"
+Rejecting graph40-80-1rand: Has status "open"
+graphdraw-domain passed all conditions
+graphdraw-gemcutter passed all conditions
+Rejecting graphdraw-grafo2: Has status "open"
+Rejecting graphdraw-mainerd: Has status "open"
+Rejecting graphdraw-opmanager: Has status "open"
+Rejecting gsvm2rl11: Has status "open"
+Rejecting gsvm2rl12: Has status "open"
+gsvm2rl3 passed all conditions
+gsvm2rl5 passed all conditions
+Rejecting gsvm2rl9: Has status "open"
+gt2 passed all conditions
+gus-sch passed all conditions
+h50x2450 passed all conditions
+h80x6320 passed all conditions
+h80x6320d passed all conditions
+hanoi5 passed all conditions
+haprp passed all conditions
+Rejecting hawaiiv10-130: Has tag "numerics"
+hgms-det passed all conditions
+Rejecting hgms30: Has status "open"
+Rejecting hgms62: Has status "open"
+Rejecting highschool1-aigio: No solution file: /scratch/opt/happlegr/Miplib/solutions/highschool1-aigio.sol.gz
+hypothyroid-k1 passed all conditions
+ic97_potential passed all conditions
+ic97_tension passed all conditions
+icir97_potential passed all conditions
+icir97_tension passed all conditions
+iis-glass-cov passed all conditions
+iis-hc-cov passed all conditions
+in passed all conditions
+irish-electricity passed all conditions
+irp passed all conditions
+istanbul-no-cutoff passed all conditions
+Rejecting ivu06: Has status "open"
+Rejecting ivu06-big: Has status "open"
+ivu52 passed all conditions
+Rejecting ivu59: Has status "open"
+k16x240b passed all conditions
+k1mushroom passed all conditions
+Rejecting k1mushroomi: Has tag "numerics"
+khb05250 passed all conditions
+Rejecting kosova1: Has status "open"
+Rejecting kottenpark09: Has status "open"
+l2p12 passed all conditions
+Rejecting l2p1i: Has tag "numerics"
+Rejecting l2p2i: Has tag "numerics"
+Rejecting lectsched-1: Has tag "feasibility"
+Rejecting lectsched-2: Has tag "feasibility"
+Rejecting lectsched-3: Has tag "feasibility"
+lectsched-4-obj passed all conditions
+lectsched-5-obj passed all conditions
+leo1 passed all conditions
+leo2 passed all conditions
+Rejecting liu: Has status "open"
+loopha13 passed all conditions
+lotsize passed all conditions
+Rejecting lr1dr02vc05v8a-t360: Has status "open"
+Rejecting lr1dr04vc05v17a-t360: Has status "open"
+Rejecting lr1dr12vc10v70b-t360: Has status "open"
+Rejecting lr2-22dr3-333vc4v17a-t60: Has status "open"
+Rejecting lrn: Has tag "numerics"
+mad passed all conditions
+manna81 passed all conditions
+map06 passed all conditions
+map10 passed all conditions
+map14860-20 passed all conditions
+map16715-04 passed all conditions
+map18 passed all conditions
+Rejecting mappingmesh3x3mpeg2i: Has tag "numerics"
+Rejecting mario-t-hard5i: Has tag "numerics"
+Rejecting maritime-jg3d9: Has tag "infeasible"
+markshare1 passed all conditions
+markshare2 passed all conditions
+markshare_4_0 passed all conditions
+markshare_5_0 passed all conditions
+mas74 passed all conditions
+mas76 passed all conditions
+Rejecting maxgasflow: Has tag "numerics"
+mc11 passed all conditions
+mc7 passed all conditions
+mc8 passed all conditions
+mcsched passed all conditions
+mik-250-20-75-1 passed all conditions
+mik-250-20-75-2 passed all conditions
+mik-250-20-75-3 passed all conditions
+mik-250-20-75-4 passed all conditions
+mik-250-20-75-5 passed all conditions
+milo-v12-6-r1-58-1 passed all conditions
+Rejecting milo-v12-6-r1-75-1: Has status "open"
+milo-v12-6-r2-40-1 passed all conditions
+milo-v13-4-3d-3-0 passed all conditions
+Rejecting milo-v13-4-3d-4-0: Has status "open"
+mine-166-5 passed all conditions
+mine-90-10 passed all conditions
+Rejecting mining: Has status "open"
+Rejecting minutedispatchstrategy: Has status "open"
+Rejecting misc04inf: Has tag "infeasible"
+Rejecting misc05inf: Has tag "infeasible"
+misc07 passed all conditions
+mitre passed all conditions
+mkc passed all conditions
+mkc1 passed all conditions
+Rejecting mod008inf: Has tag "infeasible"
+mod010 passed all conditions
+Rejecting mod011: Has tag "numerics"
+Rejecting moj-mining: Has tag "numerics"
+momentum1 passed all conditions
+Rejecting momentum2: Has tag "numerics"
+Rejecting momentum3: Has status "open"
+Rejecting mrcpspj30-15-5i: Has tag "numerics"
+Rejecting mrcpspj30-17-10i: Has tag "numerics"
+Rejecting mrcpspj30-53-3i: Has tag "numerics"
+Rejecting msc98-ip: Has tag "numerics"
+Rejecting mspsphard01i: Has tag "numerics"
+Rejecting mspsphard03i: Has tag "numerics"
+mtest4ma passed all conditions
+mushroom-best passed all conditions
+mzzv11 passed all conditions
+mzzv42z passed all conditions
+Rejecting n13-3: No solution file: /scratch/opt/happlegr/Miplib/solutions/n13-3.sol.gz
+n2seq36f passed all conditions
+n2seq36q passed all conditions
+Rejecting n3700: Has status "open"
+Rejecting n3705: Has status "open"
+Rejecting n3707: Has status "open"
+Rejecting n3709: Has status "open"
+Rejecting n370b: Has status "open"
+n3div36 passed all conditions
+n3seq24 passed all conditions
+n5-3 passed all conditions
+n6-3 passed all conditions
+n7-3 passed all conditions
+n9-3 passed all conditions
+Rejecting nag: Has status "open"
+Rejecting nb10tb: Has status "open"
+Rejecting neos-1061020: Has tag "numerics"
+neos-1067731 passed all conditions
+Rejecting neos-1112782: Has tag "numerics"
+Rejecting neos-1112787: Has tag "numerics"
+Rejecting neos-1122047: /scratch/opt/happlegr/Miplib/solutions/neos-1122047.sol.gz was rejected by SCIP
+Rejecting neos-1140050: Has tag "numerics"
+neos-1171448 passed all conditions
+neos-1171737 passed all conditions
+neos-1223462 passed all conditions
+neos-1324574 passed all conditions
+neos-1330346 passed all conditions
+neos-1337307 passed all conditions
+neos-1354092 passed all conditions
+neos-1367061 passed all conditions
+Rejecting neos-1396125: No solution file: /scratch/opt/happlegr/Miplib/solutions/neos-1396125.sol.gz
+Rejecting neos-1420546: Has status "open"
+Rejecting neos-1420790: Has status "open"
+Rejecting neos-1423785: Has status "open"
+neos-1425699 passed all conditions
+neos-1430701 passed all conditions
+neos-1442119 passed all conditions
+neos-1445532 passed all conditions
+neos-1445738 passed all conditions
+neos-1445743 passed all conditions
+neos-1445765 passed all conditions
+neos-1456979 passed all conditions
+neos-1516309 passed all conditions
+neos-1582420 passed all conditions
+neos-1593097 passed all conditions
+neos-1599274 passed all conditions
+neos-1601936 passed all conditions
+Rejecting neos-1603965: Has tag "numerics"
+neos-1605061 passed all conditions
+Rejecting neos-2075418-temuka: Has tag "infeasible"
+neos-2294525-abba passed all conditions
+neos-2328163-agri passed all conditions
+neos-2624317-amur passed all conditions
+Rejecting neos-2626858-aoos: Has tag "infeasible"
+Rejecting neos-2629914-sudost: Has status "open"
+neos-2652786-brda passed all conditions
+Rejecting neos-2656603-coxs: Has tag "infeasible"
+neos-2657525-crna passed all conditions
+neos-2669500-cust passed all conditions
+neos-2746589-doon passed all conditions
+Rejecting neos-2974461-ibar: Has status "open"
+neos-2978193-inde passed all conditions
+Rejecting neos-2978205-isar: Has status "open"
+Rejecting neos-2987202-jeir: Has tag "numerics"
+neos-2987310-joes passed all conditions
+Rejecting neos-2991472-kalu: Has status "open"
+Rejecting neos-3004026-krka: Has tag "feasibility"
+Rejecting neos-3009394-lami: Has status "open"
+neos-3024952-loue passed all conditions
+neos-3025225-shelon passed all conditions
+neos-3045796-mogo passed all conditions
+neos-3046601-motu passed all conditions
+neos-3046615-murg passed all conditions
+Rejecting neos-3048764-nadi: Has tag "numerics"
+Rejecting neos-3065804-namu: Has tag "numerics"
+Rejecting neos-3068746-nene: Has status "open"
+neos-3072252-nete passed all conditions
+Rejecting neos-3075395-nile: Has tag "numerics"
+Rejecting neos-3083784-nive: Has tag "numerics"
+neos-3083819-nubu passed all conditions
+Rejecting neos-3116779-oban: No solution file: /scratch/opt/happlegr/Miplib/solutions/neos-3116779-oban.sol.gz
+neos-3118745-obra passed all conditions
+Rejecting neos-3135526-osun: Has tag "numerics"
+Rejecting neos-3148108-pahi: No solution file: /scratch/opt/happlegr/Miplib/solutions/neos-3148108-pahi.sol.gz
+Rejecting neos-3208254-reiu: Has status "open"
+neos-3209462-rhin passed all conditions
+Rejecting neos-3209519-ruhr: No solution file: /scratch/opt/happlegr/Miplib/solutions/neos-3209519-ruhr.sol.gz
+Rejecting neos-3211096-shag: Has tag "feasibility"
+neos-3214367-sovi passed all conditions
+neos-3216931-puriri passed all conditions
+Rejecting neos-3218348-suir: Has tag "infeasible"
+Rejecting neos-3226448-wkra: Has tag "feasibility"
+Rejecting neos-3229051-yass: No valid objective value (None)
+Rejecting neos-3230376-yser: No valid objective value (None)
+Rejecting neos-3230511-yuna: No valid objective value (None)
+Rejecting neos-3230516-zala: No valid objective value (None)
+Rejecting neos-3237086-abava: Has tag "feasibility"
+Rejecting neos-3283608-agout: No valid objective value (None)
+Rejecting neos-3322547-alsek: Has status "open"
+neos-3352863-ancoa passed all conditions
+neos-3354841-apure passed all conditions
+Rejecting neos-3355120-tarago: Has status "open"
+Rejecting neos-3355323-arnon: Has status "open"
+neos-3372571-onahau passed all conditions
+Rejecting neos-3373491-avoca: Has tag "numerics"
+neos-3381206-awhea passed all conditions
+neos-3402294-bobin passed all conditions
+Rejecting neos-3402454-bohle: Has tag "infeasible"
+Rejecting neos-3421095-cinca: Has tag "numerics"
+Rejecting neos-3426085-ticino: Has status "open"
+Rejecting neos-3426132-dieze: Has status "open"
+Rejecting neos-3437289-erdre: No solution file: /scratch/opt/happlegr/Miplib/solutions/neos-3437289-erdre.sol.gz
+neos-3530903-gauja passed all conditions
+neos-3530905-gaula passed all conditions
+neos-3555904-turama passed all conditions
+Rejecting neos-3572885-glina: Has tag "feasibility"
+neos-3581454-haast passed all conditions
+Rejecting neos-3592146-hawea: Has tag "numerics"
+Rejecting neos-3594536-henty: Has status "open"
+Rejecting neos-3603137-hoteo: Has status "open"
+neos-3610040-iskar passed all conditions
+neos-3610051-istra passed all conditions
+neos-3610173-itata passed all conditions
+neos-3611447-jijia passed all conditions
+Rejecting neos-3611689-kaihu: No solution file: /scratch/opt/happlegr/Miplib/solutions/neos-3611689-kaihu.sol.gz
+Rejecting neos-3615091-sutlej: Has status "open"
+neos-3627168-kasai passed all conditions
+Rejecting neos-3631363-vilnia: Has tag "infeasible"
+Rejecting neos-3634244-kauru: Has status "open"
+Rejecting neos-3636886-kereu: Has tag "numerics"
+Rejecting neos-3654993-kolva: No valid objective value (None)
+neos-3656078-kumeu passed all conditions
+neos-3660371-kurow passed all conditions
+Rejecting neos-3661949-lesse: Has tag "numerics"
+neos-3665875-lesum passed all conditions
+Rejecting neos-3672928-linge: No valid objective value (None)
+Rejecting neos-3682128-sandon: Has status "open"
+Rejecting neos-3691541-lonja: Has status "open"
+Rejecting neos-3695882-vesdre: Has status "open"
+neos-3696678-lyvia passed all conditions
+Rejecting neos-3699044-maipo: No valid objective value (None)
+Rejecting neos-3699377-maori: Has tag "numerics"
+Rejecting neos-3703351-marne: Has tag "numerics"
+Rejecting neos-3709489-menik: No valid objective value (None)
+Rejecting neos-3734794-moppy: Has tag "numerics"
+Rejecting neos-3740487-motru: Has status "open"
+Rejecting neos-3754224-navua: Has status "open"
+neos-3754480-nidda passed all conditions
+neos-3755335-nizao passed all conditions
+neos-3759587-noosa passed all conditions
+Rejecting neos-3761878-oglio: Has tag "numerics"
+Rejecting neos-3762025-ognon: Has tag "numerics"
+Rejecting neos-3988577-wolgan: Has tag "infeasible"
+neos-4165869-wannon passed all conditions
+Rejecting neos-4230265-orari: Has status "open"
+Rejecting neos-4232544-orira: Has status "open"
+neos-4260495-otere passed all conditions
+Rejecting neos-4264598-oueme: Has status "open"
+Rejecting neos-4285819-pedja: Has status "open"
+Rejecting neos-4290317-perth: Has status "open"
+Rejecting neos-4292145-piako: Has status "open"
+neos-4295773-pissa passed all conditions
+neos-4300652-rahue passed all conditions
+neos-4306827-ravan passed all conditions
+Rejecting neos-4321076-ruwer: Has status "open"
+neos-4322846-ryton passed all conditions
+neos-4332801-seret passed all conditions
+neos-4332810-sesia passed all conditions
+neos-4333464-siret passed all conditions
+neos-4333596-skien passed all conditions
+Rejecting neos-4335793-snake: Has tag "numerics"
+Rejecting neos-4338804-snowy: No solution file: /scratch/opt/happlegr/Miplib/solutions/neos-4338804-snowy.sol.gz
+neos-4343293-stony passed all conditions
+Rejecting neos-4355351-swalm: Has status "open"
+Rejecting neos-4358725-tagus: Has status "open"
+neos-4359986-taipa passed all conditions
+Rejecting neos-4360552-sangro: Has status "open"
+Rejecting neos-4382714-ruvuma: Has tag "feasibility"
+neos-4387871-tavua passed all conditions
+neos-4391920-timok passed all conditions
+neos-4393408-tinui passed all conditions
+neos-4408804-prosna passed all conditions
+neos-4409277-trave passed all conditions
+neos-4413714-turia passed all conditions
+Rejecting neos-4477313-unzha: Has tag "numerics"
+Rejecting neos-4531126-vouga: Has status "open"
+neos-4532248-waihi passed all conditions
+Rejecting neos-4533806-waima: Has status "open"
+Rejecting neos-4535459-waipa: Has status "open"
+Rejecting neos-4545615-waita: Has status "open"
+Rejecting neos-4555749-wards: Has status "open"
+Rejecting neos-4562542-watut: Has status "open"
+Rejecting neos-4647027-thurso: Has status "open"
+neos-4647030-tutaki passed all conditions
+Rejecting neos-4647032-veleka: Has status "open"
+neos-4650160-yukon passed all conditions
+Rejecting neos-4703857-ahuroa: Has tag "numerics"
+neos-4722843-widden passed all conditions
+neos-4724674-aorere passed all conditions
+neos-4736745-arroux passed all conditions
+neos-4738912-atrato passed all conditions
+Rejecting neos-4754521-awarau: Has tag "feasibility"
+neos-4760493-puerua passed all conditions
+neos-4763324-toguru passed all conditions
+Rejecting neos-4797081-pakoka: Has tag "feasibility"
+neos-4805882-barwon passed all conditions
+neos-480878 passed all conditions
+neos-4954274-beardy passed all conditions
+Rejecting neos-4954340-beaury: Has tag "numerics"
+Rejecting neos-4954357-bednja: Has tag "numerics"
+neos-4954672-berkel passed all conditions
+Rejecting neos-4960896-besbre: Has tag "numerics"
+Rejecting neos-4966126-blavet: Has tag "numerics"
+neos-4966258-blicks passed all conditions
+Rejecting neos-4971100-bodrog: Has tag "numerics"
+neos-4972437-bojana passed all conditions
+Rejecting neos-4972461-bolong: No solution file: /scratch/opt/happlegr/Miplib/solutions/neos-4972461-bolong.sol.gz
+neos-4976951-bunnoo passed all conditions
+Rejecting neos-4984115-canche: Has tag "numerics"
+neos-498623 passed all conditions
+neos-5013590-toitoi passed all conditions
+Rejecting neos-5018451-chiese: Has tag "numerics"
+neos-503737 passed all conditions
+Rejecting neos-5041756-cobark: No valid objective value (None)
+Rejecting neos-5041822-cockle: Has status "open"
+Rejecting neos-5044663-wairoa: Has status "open"
+Rejecting neos-5045105-creuse: Has status "open"
+neos-5049753-cuanza passed all conditions
+neos-5051588-culgoa passed all conditions
+neos-5052403-cygnet passed all conditions
+Rejecting neos-5075914-elvire: Has tag "numerics"
+neos-5076235-embley passed all conditions
+neos-5078479-escaut passed all conditions
+neos-5079731-flyers passed all conditions
+Rejecting neos-5081619-ganges: Has tag "numerics"
+Rejecting neos-5083528-gimone: Has tag "feasibility"
+neos-5093327-huahum passed all conditions
+Rejecting neos-5100895-inster: No solution file: /scratch/opt/happlegr/Miplib/solutions/neos-5100895-inster.sol.gz
+neos-5102383-irwell passed all conditions
+neos-5104907-jarama passed all conditions
+neos-5106984-jizera passed all conditions
+neos-5107597-kakapo passed all conditions
+neos-5108386-kalang passed all conditions
+neos-5114902-kasavu passed all conditions
+Rejecting neos-5115478-kaveri: Has tag "numerics"
+neos-5116085-kenana passed all conditions
+neos-5118834-korana passed all conditions
+neos-5118851-kowhai passed all conditions
+neos-5123665-limmat passed all conditions
+Rejecting neos-5125849-lopori: Has tag "feasibility"
+Rejecting neos-5129192-manaia: Has tag "feasibility"
+neos-5138690-middle passed all conditions
+neos-5140963-mincio passed all conditions
+neos-5149806-wieprz passed all conditions
+Rejecting neos-5151569-mologa: Has status "open"
+Rejecting neos-5157194-moruya: Has tag "numerics"
+neos-5178119-nalagi passed all conditions
+neos-5182409-nasivi passed all conditions
+neos-5188808-nattai passed all conditions
+Rejecting neos-5189128-totara: Has status "open"
+neos-5192052-neckar passed all conditions
+neos-5193246-nerang passed all conditions
+neos-5195221-niemur passed all conditions
+neos-5196530-nuhaka passed all conditions
+Rejecting neos-520729: Has tag "numerics"
+Rejecting neos-5221106-oparau: Has status "open"
+Rejecting neos-5223573-tarwin: Has tag "feasibility"
+Rejecting neos-5251015-ogosta: Has tag "feasibility"
+neos-525149 passed all conditions
+Rejecting neos-5260764-orauea: Has status "open"
+neos-5261882-treska passed all conditions
+Rejecting neos-5266653-tugela: Has status "open"
+neos-5273874-yomtsa passed all conditions
+Rejecting neos-555001: Has tag "numerics"
+neos-555343 passed all conditions
+neos-555424 passed all conditions
+neos-555884 passed all conditions
+Rejecting neos-565672: Has tag "numerics"
+neos-574665 passed all conditions
+Rejecting neos-578379: Has tag "feasibility"
+Rejecting neos-585192: Has tag "numerics"
+Rejecting neos-585467: Has tag "numerics"
+neos-595904 passed all conditions
+Rejecting neos-619167: Has tag "numerics"
+neos-631517 passed all conditions
+neos-631710 passed all conditions
+neos-633273 passed all conditions
+neos-662469 passed all conditions
+neos-686190 passed all conditions
+neos-691058 passed all conditions
+neos-738098 passed all conditions
+neos-780889 passed all conditions
+neos-787933 passed all conditions
+Rejecting neos-799711: Has tag "numerics"
+Rejecting neos-799716: Has tag "numerics"
+neos-807639 passed all conditions
+neos-820879 passed all conditions
+neos-824661 passed all conditions
+neos-826224 passed all conditions
+neos-826650 passed all conditions
+Rejecting neos-827015: Has tag "numerics"
+neos-827175 passed all conditions
+Rejecting neos-829552: Has tag "numerics"
+neos-831188 passed all conditions
+Rejecting neos-848198: Has status "open"
+neos-848589 passed all conditions
+neos-850681 passed all conditions
+Rejecting neos-859770: Has tag "infeasible"
+neos-860300 passed all conditions
+neos-872648 passed all conditions
+neos-873061 passed all conditions
+neos-876808 passed all conditions
+neos-885086 passed all conditions
+neos-885524 passed all conditions
+neos-911970 passed all conditions
+neos-913984 passed all conditions
+Rejecting neos-914441: Has tag "numerics"
+neos-932721 passed all conditions
+neos-933562 passed all conditions
+neos-933638 passed all conditions
+neos-933966 passed all conditions
+neos-935234 passed all conditions
+neos-935769 passed all conditions
+neos-941313 passed all conditions
+neos-948346 passed all conditions
+neos-950242 passed all conditions
+Rejecting neos-952987: Has tag "infeasible"
+neos-953928 passed all conditions
+neos-954925 passed all conditions
+neos-956971 passed all conditions
+neos-957143 passed all conditions
+neos-957323 passed all conditions
+neos-960392 passed all conditions
+Rejecting neos-983171: No solution file: /scratch/opt/happlegr/Miplib/solutions/neos-983171.sol.gz
+neos16 passed all conditions
+neos17 passed all conditions
+neos18 passed all conditions
+neos2 passed all conditions
+neos22 passed all conditions
+Rejecting neos4: Has tag "numerics"
+neos5 passed all conditions
+neos6 passed all conditions
+neos8 passed all conditions
+Rejecting neos859080: Has tag "infeasible"
+neos9 passed all conditions
+net12 passed all conditions
+netdiversion passed all conditions
+newdano passed all conditions
+nexp-150-20-1-5 passed all conditions
+nexp-150-20-8-5 passed all conditions
+nexp-50-20-1-1 passed all conditions
+nexp-50-20-4-2 passed all conditions
+nh97_potential passed all conditions
+nh97_tension passed all conditions
+Rejecting nj1: Has status "open"
+Rejecting nj2: Has status "open"
+Rejecting nj3: Has status "open"
+Rejecting no-ip-64999: Has tag "feasibility"
+Rejecting no-ip-65059: Has tag "feasibility"
+noswot passed all conditions
+Rejecting npmv07: Has tag "numerics"
+ns1111636 passed all conditions
+Rejecting ns1116954: Has tag "feasibility"
+ns1208400 passed all conditions
+ns1430538 passed all conditions
+Rejecting ns1456591: Has status "open"
+Rejecting ns1631475: Has status "open"
+ns1644855 passed all conditions
+Rejecting ns1679495: Has status "open"
+Rejecting ns1690781: Has status "open"
+ns1760995 passed all conditions
+Rejecting ns1828997: Has status "open"
+ns1830653 passed all conditions
+Rejecting ns1849932: Has status "open"
+Rejecting ns1856153: Has status "open"
+Rejecting ns1904248: Has status "open"
+Rejecting ns1905797: Has status "open"
+Rejecting ns1952667: Has tag "feasibility"
+Rejecting ns2034125: Has tag "numerics"
+ns2071214 passed all conditions
+Rejecting ns2122698: Has status "open"
+Rejecting ns2124243: Has status "open"
+ns4-pr6 passed all conditions
+Rejecting ns930473: Has status "open"
+nsa passed all conditions
+Rejecting nsr8k: Has status "open"
+nsrand-ipx passed all conditions
+nu120-pr12 passed all conditions
+Rejecting nu120-pr9: Has tag "numerics"
+nu25-pr12 passed all conditions
+Rejecting nu4-pr9: Has tag "numerics"
+Rejecting nucorsav: Has status "open"
+nursesched-medium-hint03 passed all conditions
+nursesched-medium04 passed all conditions
+nursesched-sprint-hidden09 passed all conditions
+nursesched-sprint-late03 passed all conditions
+nursesched-sprint02 passed all conditions
+nw04 passed all conditions
+Rejecting ofi: Has tag "numerics"
+Rejecting ofi2: Has status "open"
+Rejecting oocsp-racks030e6cci: Has tag "feasibility"
+Rejecting oocsp-racks030f7cci: Has tag "feasibility"
+opm2-z10-s4 passed all conditions
+opm2-z12-s8 passed all conditions
+opm2-z6-s1 passed all conditions
+opm2-z7-s8 passed all conditions
+opm2-z8-s0 passed all conditions
+opt1217 passed all conditions
+Rejecting osorio-cta: Has tag "numerics"
+p0201 passed all conditions
+p200x1188c passed all conditions
+Rejecting p2m2p1m1p0n100: Has tag "infeasible"
+p500x2988 passed all conditions
+p500x2988c passed all conditions
+p500x2988d passed all conditions
+pb-fit2d passed all conditions
+Rejecting pb-gfrd-pnc: Has status "open"
+Rejecting pb-grow22: Has status "open"
+Rejecting pb-market-split8-70-4: Has status "open"
+peg-solitaire-a3 passed all conditions
+pg passed all conditions
+pg5_34 passed all conditions
+physiciansched3-3 passed all conditions
+physiciansched3-4 passed all conditions
+physiciansched5-3 passed all conditions
+physiciansched6-1 passed all conditions
+physiciansched6-2 passed all conditions
+pigeon-08 passed all conditions
+pigeon-10 passed all conditions
+pigeon-13 passed all conditions
+pigeon-16 passed all conditions
+pigeon-20 passed all conditions
+piperout-03 passed all conditions
+piperout-08 passed all conditions
+piperout-27 passed all conditions
+piperout-d20 passed all conditions
+piperout-d27 passed all conditions
+Rejecting pizza27i: Has status "open"
+Rejecting pizza78i: Has status "open"
+pk1 passed all conditions
+Rejecting polygonpack3-15: Has status "open"
+Rejecting polygonpack4-10: Has status "open"
+Rejecting polygonpack4-15: Has status "open"
+Rejecting polygonpack4-7: Has status "open"
+Rejecting polygonpack5-15: Has status "open"
+Rejecting ponderthis0517-inf: Has tag "feasibility"
+probportfolio passed all conditions
+prod1 passed all conditions
+prod2 passed all conditions
+Rejecting proteindesign121hz512p19: Has status "open"
+proteindesign121hz512p9 passed all conditions
+proteindesign121pgb11p9 passed all conditions
+proteindesign122trx11p8 passed all conditions
+pw-myciel4 passed all conditions
+Rejecting pythago7824: Has tag "feasibility"
+Rejecting pythago7825: Has status "open"
+qap10 passed all conditions
+qiu passed all conditions
+qnet1 passed all conditions
+qnet1_o passed all conditions
+queens-30 passed all conditions
+Rejecting r4l4-02-tree-bounds-50: Has status "open"
+r50x360 passed all conditions
+Rejecting radiationm18-12-05: No solution file: /scratch/opt/happlegr/Miplib/solutions/radiationm18-12-05.sol.gz
+Rejecting radiationm40-10-02: No solution file: /scratch/opt/happlegr/Miplib/solutions/radiationm40-10-02.sol.gz
+rail01 passed all conditions
+rail02 passed all conditions
+Rejecting rail03: Has tag "numerics"
+rail507 passed all conditions
+railway_8_1_0 passed all conditions
+Rejecting ramos3: Has status "open"
+ran12x21 passed all conditions
+ran13x13 passed all conditions
+ran14x18-disj-8 passed all conditions
+rd-rplusc-21 passed all conditions
+reblock115 passed all conditions
+Rejecting reblock166: No solution file: /scratch/opt/happlegr/Miplib/solutions/reblock166.sol.gz
+reblock354 passed all conditions
+reblock420 passed all conditions
+rentacar passed all conditions
+Rejecting rfds-4-days: Has status "open"
+rlp1 passed all conditions
+rmatr100-p10 passed all conditions
+rmatr100-p5 passed all conditions
+rmatr200-p10 passed all conditions
+rmatr200-p20 passed all conditions
+rmatr200-p5 passed all conditions
+Rejecting rmine11: Has status "open"
+Rejecting rmine13: Has status "open"
+Rejecting rmine15: Has status "open"
+Rejecting rmine21: Has status "open"
+Rejecting rmine25: Has status "open"
+Rejecting rocI-3-11: Has tag "numerics"
+rocI-4-11 passed all conditions
+Rejecting rocII-10-11: Has status "open"
+rocII-5-11 passed all conditions
+Rejecting rocII-8-11: Has status "open"
+rococoB10-011000 passed all conditions
+rococoC10-001000 passed all conditions
+rococoC11-010100 passed all conditions
+rococoC11-011100 passed all conditions
+rococoC12-010001 passed all conditions
+roi2alpha3n4 passed all conditions
+roi5alpha10n8 passed all conditions
+roll3000 passed all conditions
+rout passed all conditions
+Rejecting rpp22falsei: Has tag "feasibility"
+rvb-sub passed all conditions
+Rejecting rwth-timetable: Has status "open"
+s100 passed all conditions
+s1234 passed all conditions
+s250r10 passed all conditions
+s55 passed all conditions
+Rejecting s82: Has status "open"
+satellites2-25 passed all conditions
+satellites2-40 passed all conditions
+satellites2-60-fs passed all conditions
+satellites3-25 passed all conditions
+satellites4-25 passed all conditions
+savsched1 passed all conditions
+Rejecting scpj4scip: Has status "open"
+Rejecting scpk4: Has status "open"
+Rejecting scpl4: Has status "open"
+Rejecting scpm1: Has status "open"
+Rejecting scpn2: Has status "open"
+Rejecting sct1: Has status "open"
+sct2 passed all conditions
+Rejecting sct31: Has status "open"
+sct32 passed all conditions
+Rejecting sct5: Has status "open"
+Rejecting seqsolve1: Has status "open"
+Rejecting seqsolve2short4288: Has status "open"
+Rejecting seqsolve3short4288excess384: Has status "open"
+Rejecting set3-09: Has status "open"
+set3-10 passed all conditions
+Rejecting set3-15: No solution file: /scratch/opt/happlegr/Miplib/solutions/set3-15.sol.gz
+Rejecting set3-16: Has status "open"
+set3-20 passed all conditions
+Rejecting seymour: No solution file: /scratch/opt/happlegr/Miplib/solutions/seymour.sol.gz
+seymour1 passed all conditions
+Rejecting shiftreg1-4: Has tag "numerics"
+Rejecting shiftreg2-7: Has tag "numerics"
+Rejecting shiftreg5-1: Has status "open"
+Rejecting shipsched: Has status "open"
+Rejecting shipschedule3shipsi: Has tag "numerics"
+Rejecting shipschedule6shipsmixi: Has tag "numerics"
+Rejecting shipschedule8shipsmixuci: Has tag "numerics"
+Rejecting shs1014: Has status "open"
+shs1023 passed all conditions
+Rejecting shs1042: Has status "open"
+Rejecting siena1: Has status "open"
+Rejecting sing11: Has status "open"
+Rejecting sing17: Has status "open"
+sing326 passed all conditions
+sing44 passed all conditions
+Rejecting sing5: Has status "open"
+snip10x10-35r1budget17 passed all conditions
+snp-02-004-104 passed all conditions
+Rejecting snp-04-052-052: Has status "open"
+Rejecting snp-06-004-052: Has status "open"
+Rejecting snp-10-004-052: Has status "open"
+Rejecting snp-10-052-052: Has status "open"
+Rejecting sorrell3: No solution file: /scratch/opt/happlegr/Miplib/solutions/sorrell3.sol.gz
+Rejecting sorrell4: Has status "open"
+Rejecting sorrell7: Has status "open"
+sorrell8 passed all conditions
+sp150x300d passed all conditions
+sp97ar passed all conditions
+sp97ic passed all conditions
+sp98ar passed all conditions
+sp98ic passed all conditions
+sp98ir passed all conditions
+Rejecting splan1: Has status "open"
+splice1k1 passed all conditions
+Rejecting splice1k1i: Has tag "numerics"
+square23 passed all conditions
+square31 passed all conditions
+square37 passed all conditions
+square41 passed all conditions
+square47 passed all conditions
+Rejecting stein15inf: Has tag "infeasible"
+Rejecting stein45inf: Has tag "infeasible"
+Rejecting stein9inf: Has tag "infeasible"
+Rejecting stoch-vrpvrp-s5v2c8vrp-v2c8i: Has tag "numerics"
+Rejecting stockholm: Has status "open"
+Rejecting stp3d: No solution file: /scratch/opt/happlegr/Miplib/solutions/stp3d.sol.gz
+Rejecting supportcase1: Has tag "numerics"
+supportcase10 passed all conditions
+Rejecting supportcase11: Has tag "numerics"
+supportcase12 passed all conditions
+Rejecting supportcase14: No solution file: /scratch/opt/happlegr/Miplib/solutions/supportcase14.sol.gz
+supportcase16 passed all conditions
+supportcase17 passed all conditions
+Rejecting supportcase18: No solution file: /scratch/opt/happlegr/Miplib/solutions/supportcase18.sol.gz
+supportcase19 passed all conditions
+Rejecting supportcase2: Has status "open"
+supportcase20 passed all conditions
+Rejecting supportcase21i: Has tag "numerics"
+Rejecting supportcase22: Has tag "infeasible"
+Rejecting supportcase23: Has status "open"
+Rejecting supportcase25: Has tag "numerics"
+supportcase26 passed all conditions
+Rejecting supportcase27i: Has tag "numerics"
+Rejecting supportcase28i: Has tag "numerics"
+Rejecting supportcase29: Has tag "infeasible"
+Rejecting supportcase3: Has tag "feasibility"
+Rejecting supportcase30: Has status "open"
+Rejecting supportcase31: Has status "open"
+supportcase33 passed all conditions
+supportcase34 passed all conditions
+Rejecting supportcase35: Has status "open"
+supportcase37 passed all conditions
+Rejecting supportcase38: Has status "open"
+Rejecting supportcase39: Has status "open"
+Rejecting supportcase4: Has tag "feasibility"
+supportcase40 passed all conditions
+Rejecting supportcase41: Has status "open"
+supportcase42 passed all conditions
+Rejecting supportcase43: Has tag "feasibility"
+Rejecting supportcase6: No solution file: /scratch/opt/happlegr/Miplib/solutions/supportcase6.sol.gz
+supportcase7 passed all conditions
+swath passed all conditions
+swath1 passed all conditions
+swath2 passed all conditions
+swath3 passed all conditions
+t11nonreg passed all conditions
+Rejecting t1717: Has status "open"
+Rejecting t1722: Has status "open"
+Rejecting ta1-UUM: Has tag "numerics"
+Rejecting ta2-UUE: Has tag "numerics"
+tanglegram4 passed all conditions
+tanglegram6 passed all conditions
+tbfp-bigm passed all conditions
+tbfp-network passed all conditions
+Rejecting Test3: Has tag "numerics"
+thor50dday passed all conditions
+timtab1 passed all conditions
+timtab1CUTS passed all conditions
+Rejecting tokyometro: Has status "open"
+Rejecting toll-like: No solution file: /scratch/opt/happlegr/Miplib/solutions/toll-like.sol.gz
+tpl-tub-ss16 passed all conditions
+Rejecting tpl-tub-ws1617: Has status "open"
+tr12-30 passed all conditions
+traininstance2 passed all conditions
+traininstance6 passed all conditions
+Rejecting transportmoment: Has tag "numerics"
+trento1 passed all conditions
+triptim1 passed all conditions
+triptim2 passed all conditions
+triptim4 passed all conditions
+triptim7 passed all conditions
+triptim8 passed all conditions
+tw-myciel4 passed all conditions
+Rejecting uc720-7-4-4-8: Has tag "numerics"
+Rejecting uccase10: Has status "open"
+uccase12 passed all conditions
+uccase7 passed all conditions
+uccase8 passed all conditions
+uccase9 passed all conditions
+uct-subprob passed all conditions
+umts passed all conditions
+unitcal_7 passed all conditions
+usAbbrv-8-25_70 passed all conditions
+Rejecting usafa: Has status "open"
+v150d30-2hopcds passed all conditions
+Rejecting van: Has status "open"
+var-smallemery-m6j6 passed all conditions
+vpphard passed all conditions
+vpphard2 passed all conditions
+wachplan passed all conditions
+wnq-n100-mw99-14 passed all conditions
+woodlands09 passed all conditions
+Rejecting xmas10: Has status "open"
+Rejecting xmas10-2: Has status "open"
+Rejecting z26: Has status "open"
+Rejecting zeil: Has status "open"
+Condition statistics:
+Status is easy or hard       : 828 / 1065
+Does not have tag feasibility: 787 / 828
+Does not have tag numerics   : 657 / 787
+Does not have tag infeasible : 627 / 657
+Does not have tag no_solution: 627 / 627
+Has a finite objective value : 617 / 627
+Has an available solution    : 593 / 617
+SCIP accepts the solution    : 591 / 593
+
+ADDITIONAL EXCLUDED PROBLEMS:
+neos-4332801-seret.mps.gz OOM
+neos-4332810-sesia.mps.gz OOM
+neos-525149.mps.gz BOUND ASSERT
+comp16-3idx.mps.gz PROPAGATOR ASSERT
